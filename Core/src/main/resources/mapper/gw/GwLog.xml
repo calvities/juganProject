@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE mapper PUBLIC "-//mybatis.org//DTD Mapper 3.0//EN" "http://mybatis.org/dtd/mybatis-3-mapper.dtd">
+
+<mapper namespace="com.jg.project.core.mapper.LoraLogMapper">
+
+    <sql id="field">
+        id,gwId,time,iccid,json
+    </sql>
+
+    <insert id="insert" keyProperty="id" useGeneratedKeys="true">
+        insert into l_gw_log(gwId,time,iccid,json)
+        values (#{gwId},#{time},#{iccid},#{json})
+    </insert>
+</mapper>

@@ -1,0 +1,15 @@
+<component name="libraryTable">
+  <library name="Maven: com.jg.lora:comm:0.0.1-SNAPSHOT">
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/com/jg/lora/comm/0.0.1-SNAPSHOT/comm-0.0.1-SNAPSHOT.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$PROJECT_DIR$/Comm/comm-0.0.1-SNAPSHOT-javadoc.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/com/jg/lora/comm/0.0.1-SNAPSHOT/comm-0.0.1-SNAPSHOT-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$PROJECT_DIR$/Comm/comm-0.0.1-SNAPSHOT-sources.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/com/jg/lora/comm/0.0.1-SNAPSHOT/comm-0.0.1-SNAPSHOT-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
